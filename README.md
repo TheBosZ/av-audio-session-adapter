@@ -1,3 +1,8 @@
+**This Repo has moved: https://bitbucket.org/TheBosZ/cordova-plugin-avaudiosession**
+
+This version will be archived for a while. I will eventually delete it (but not before updating the package on NPM).
+
+
 cordova-plugin-avaudiosession
 ========================
 
